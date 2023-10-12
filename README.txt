@@ -25,3 +25,8 @@ The Applicant data type has 11 fields:
     -State which is a String
     -City which is a String
     -JobListingId which is an Integer and links an Applicant to a JobListing
+
+Dependencies used:
+    -Microsoft.EntityFrameworkCore;
+    -System.ComponentModel.DataAnnotations;
+    -Microsoft.AspNetCore.Mvc;
